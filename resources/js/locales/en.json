@@ -1,0 +1,11 @@
+{
+	"actions.change_locale": "Change locale",
+	"actions.logout": "Logout",
+	"languages.en": "English",
+	"languages.fr": "French",
+	"router.admin-auth-profile": "User profile",
+	"routes.home": "Home",
+	"routes.login": "Login",
+	"routes.profile": "Profile",
+	"routes.projects": "Projects"
+}
