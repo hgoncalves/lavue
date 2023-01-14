@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<div align="center">
+<div align="center" id="readme-top">
   <a href="https://github.com/hgoncalves/lavue">
     <img src="https://hgoncalves.com/img/lavue.svg" alt="LaVue" width="120" height="120">
   </a>
@@ -8,18 +8,18 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-// TODO
+A simple laravel and vue starter project for your web app projects
 
 ### Built With
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Vue][Vue.js]][Vue-url]
+[![Laravel][Laravel.com]][Laravel-url]
+[![Vue][Vue.js]][Vue-url]
 
 <!-- ROADMAP -->
 ## Roadmap
-// TODO
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
+- [ ] Documentation
+- [ ] 2FA authentication
+- [ ] Code style/Code formatting
+- [ ] Convert project to public template
 
 See the [open issues](https://github.com/hgoncalves/lavue/issues) for a full list of proposed features (and known issues).
 
@@ -41,7 +41,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
 ## License
 
@@ -49,11 +48,17 @@ Distributed under the MIT License.
 
 <!-- CONTACT -->
 ## Contact
-// TODO
+Contact me here or by email hgoncalves.info@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-// TODO
+A big thank you to the open-source community, often forgotten, yet indispensable.
+
+<!-- CREDITS -->
+## Credits
+Logo: <a href="https://fr.freepik.com/vecteurs-libre/icone-du-logo-lettre-v_8832643.htm#query=V%20gradient%20logo&position=38&from_view=search&track=ais">sentavio sur Freepik</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
